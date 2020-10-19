@@ -6,3 +6,6 @@ This repository contains my projects and personal notes for the Udacity's AI for
 - Loading and pivoting data
 - Resampling adjusted close prices to monthly frequency with Pandas resample() method
 - Generating previous prices and calculating log return of stocks' prices
+- Using Pandas shift() method to return previous or future returns in the time series
+- Getting top and bottom n performing stocks for each month
+- 
